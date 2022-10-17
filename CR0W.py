@@ -4,7 +4,7 @@ import pyfiglet
 
 banner = pyfiglet.figlet_format("CR0W", font = "slant" )
 print(banner)
-spammsg = input("ur message u want send it to victim;-;: ")
+spammsg = input("ur message u want send it ;-; : ")
 wb = input("plz enter ur webhook url : ")
 def work(spammsg, wb):
     while True:
